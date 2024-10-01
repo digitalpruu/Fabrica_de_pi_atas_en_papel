@@ -53,22 +53,22 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "3203564029 - 3202953363",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "pilar060185@gmail.com",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@pinateria_eyp",
         "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
-        "description": "Mi Negocio",
+        "description": "Eyp Piñateria",
         "icon": "/assets/images/facebook.jpg"
       }
     ]
