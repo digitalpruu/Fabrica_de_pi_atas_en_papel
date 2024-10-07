@@ -12,8 +12,7 @@ const MainHero = () => {
             <span className="text-secondary">E</span>
             <span className="text-tertiary">y</span>
             <span className="text-fourth">P</span>
-          </span>
-          {' '}
+          </span>{' '}
           <span className={`block text-primary xl:inline`}>
             {mainHero.subtitle}
           </span>

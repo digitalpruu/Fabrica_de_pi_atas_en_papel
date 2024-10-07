@@ -65,13 +65,13 @@
         "name": "Instagram",
         "description": "@pinateria_eyp",
         "icon": "/assets/images/insta.png",
-        "url":"Instagram: https://www.instagram.com/pinateria_eyp/"
+        "url": "Instagram: https://www.instagram.com/pinateria_eyp/"
       },
       {
         "name": "Facebook",
         "description": "Eyp Piñateria",
         "icon": "/assets/images/facebook.jpg",
-        "url":"https://www.facebook.com/eyp.pinateria.1?mibextid=ZbWKwL"
+        "url": "https://www.facebook.com/eyp.pinateria.1?mibextid=ZbWKwL"
       }
     ]
   },
