@@ -9,8 +9,8 @@ const MainHero = () => {
       <div className="sm:text-center lg:text-left">
         <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
           <span className="block xl:inline">
-            <span className="text-secondary">E</span>
-            <span className="text-tertiary">y</span>
+            <span className="text-secondary">E </span>
+            <span className="text-tertiary">y </span>
             <span className="text-fourth">P</span>
           </span>{' '}
           <span className={`block text-primary xl:inline`}>
